@@ -3,3 +3,5 @@
 2022-08-22_12-51-37 [main] ERROR c.p.d.e.GlobalExceptionHandler - Required request header 'Authorization' for method parameter type String is not present
 2022-08-22_12-51-37 [main] ERROR c.p.d.c.PensionerDetailController - Invalid Token
 2022-08-22_12-51-37 [main] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
+2022-08-22_20-21-18 [http-nio-8200-exec-2] ERROR c.p.d.c.PensionerDetailController - Invalid Token
+2022-08-22_20-21-18 [http-nio-8200-exec-2] ERROR c.p.d.e.GlobalExceptionHandler - Not allowed, Please pass a valid token
