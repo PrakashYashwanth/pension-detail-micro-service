@@ -1,0 +1,21 @@
+2022-08-24_16-15-32 [restartedMain] INFO  c.p.d.PensionDetailMicroServiceApplication - Starting PensionDetailMicroServiceApplication using Java 17.0.3 on DESKTOP-KE8A2D8 with PID 13756 (C:\Users\msspy\Desktop\Git Hub PPM\pension-detail-micro-service\target\classes started by msspy in C:\Users\msspy\Desktop\Git Hub PPM\pension-detail-micro-service)
+2022-08-24_16-15-32 [restartedMain] INFO  c.p.d.PensionDetailMicroServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-08-24_16-15-32 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-08-24_16-15-32 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-08-24_16-15-32 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=ff52ba5a-5af0-3b95-b35d-f0388a9c7c7f
+2022-08-24_16-15-32 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8200 (http)
+2022-08-24_16-15-32 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8200"]
+2022-08-24_16-15-32 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-08-24_16-15-32 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-24_16-15-32 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/pensioner] - Initializing Spring embedded WebApplicationContext
+2022-08-24_16-15-32 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2450 ms
+2022-08-24_16-15-32 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/manage'
+2022-08-24_16-15-32 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8200"]
+2022-08-24_16-15-32 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8200 (http) with context path '/pensioner'
+2022-08-24_16-15-32 [restartedMain] INFO  c.p.d.PensionDetailMicroServiceApplication - Started PensionDetailMicroServiceApplication in 4.596 seconds (JVM running for 5.734)
+2022-08-24_16-15-32 [http-nio-8200-exec-1] INFO  o.a.c.c.C.[.[localhost].[/pensioner] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-24_16-15-32 [http-nio-8200-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-08-24_16-15-32 [http-nio-8200-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-08-24_16-15-32 [http-nio-8200-exec-10] INFO  c.p.d.c.PensionerDetailController - Token valid :true
+2022-08-24_16-15-32 [http-nio-8200-exec-2] INFO  c.p.d.c.PensionerDetailController - Token valid :true
+2022-08-24_16-15-32 [http-nio-8200-exec-5] INFO  c.p.d.c.PensionerDetailController - Token valid :true
